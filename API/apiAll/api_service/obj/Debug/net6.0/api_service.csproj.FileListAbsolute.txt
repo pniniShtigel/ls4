@@ -1,0 +1,15 @@
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\bin\Debug\net6.0\api_service.deps.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\bin\Debug\net6.0\api_service.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\bin\Debug\net6.0\api_service.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\bin\Debug\net6.0\api_model.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\bin\Debug\net6.0\api_model.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.AssemblyInfo.cs
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.csproj.CopyComplete
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\refint\api_service.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\api_service.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\API\apiAll\api_service\obj\Debug\net6.0\ref\api_service.dll

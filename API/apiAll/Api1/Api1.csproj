@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="patriot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\api_model\api_model.csproj" />
+    <ProjectReference Include="..\api_service\api_service.csproj" />
+  </ItemGroup>
+
+</Project>
